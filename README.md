@@ -93,6 +93,8 @@ vvp sim.vvp
 
 Expected output on success:
 
+***ALL TESTS PASSES***
+
 To view waveforms:
 ```bash
 gtkwave tb.vcd
