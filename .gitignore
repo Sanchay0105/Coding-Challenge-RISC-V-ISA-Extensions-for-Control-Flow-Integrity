@@ -1,0 +1,13 @@
+# Icarus Verilog / simulation outputs
+*.vvp
+*.vcd
+*.lxt
+*.lxt2
+*.fst
+
+# Verilator (if used later)
+obj_dir/
+
+# Editor/OS junk
+.vscode/
+.DS_Store
