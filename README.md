@@ -93,7 +93,7 @@ vvp sim.vvp
 
 Expected output on success:
 
-***ALL TESTS PASSES***
+***ALL TESTS PASSED***
 
 To view waveforms:
 ```bash
